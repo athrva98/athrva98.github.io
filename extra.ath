@@ -1,0 +1,73 @@
+
+# Extras
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr>
+<td style="padding:20px;width:25%;vertical-align:middle">
+<!-- <a href="https://openreview.net/pdf?id=R4E8wTUtxdl"> -->
+<!-- <img src="images/eyantrasim.gif" width="252" height="168"> -->
+<img src="images/drdo_robot_sentry.jpg" width="252" height="168">
+<!-- </a> -->
+</td>
+
+<td style="padding:20px;width:75%;vertical-align:middle">
+<!-- <a href="http://jonbarron.info/mipnerf360"> -->
+<papertitle>Monocular Multiview Structure From Motion (SFM) with Bundle Adjustment</papertitle>
+<!-- </a> -->
+<!-- <br>
+<strong>Jonathan T. Barron</strong>,
+<a href="https://bmild.github.io/">Ben Mildenhall</a>,
+<a href="https://scholar.harvard.edu/dorverbin/home">Dor Verbin</a>,
+<a href="https://pratulsrinivasan.github.io/">Pratul Srinivasan</a>,
+<a href="https://phogzone.com/">Peter Hedman</a>
+<br> -->
+<br>
+<em>Student Researcher, GRASP Lab, UPenn</em>
+<!-- <br> -->
+<!-- <a href="http://jonbarron.info/mipnerf360">project page</a> -->
+<!-- / -->
+<!-- <a href="https://arxiv.org/abs/2111.12077">arXiv</a> -->
+<!-- / -->
+<!-- <a href="https://youtu.be/zBSH-k9GbV4">video</a> -->
+<p></p>
+<p>Develop a Structure From Motin Pipeline in C++ with full Bundle Adjustment using Ceres.</p>
+</td>
+</tr> 
+</tbody></table>
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr>
+<td style="padding:20px;width:25%;vertical-align:middle">
+<!-- <a href="https://openreview.net/pdf?id=R4E8wTUtxdl"> -->
+<img src="images/underwater_robot.jpg" width="252" height="168">
+<img src="images/pantilt.gif" width="252" height="168">
+<!-- </a> -->
+</td>
+
+<td style="padding:20px;width:75%;vertical-align:middle">
+<!-- <a href="http://jonbarron.info/mipnerf360"> -->
+<papertitle>Convolutional LSTM based Predictive Mapping for Manhattan World Environments</papertitle>
+<br>
+<em>Kumar Robotics, PERCH Lab, UPenn</em>
+<p></p>
+<!-- <br> -->
+<!-- <a href="http://jonbarron.info/mipnerf360">project page</a>
+/
+<a href="https://arxiv.org/abs/2111.12077">arXiv</a> -->
+<!-- / -->
+<a href="https://youtu.be/0BLEo4zk6M8">Video</a>
+<p></p>
+<p>Pan and tilt module for uniform spraying of water disinfectants</p>
+</td>
+</tr> 
+</tbody></table>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<tr>
+<td style="padding:20px;width:100%;vertical-align:middle">
+<heading>Projects</heading>
+
+</td>
+</tr>
+
+</tbody></table>
